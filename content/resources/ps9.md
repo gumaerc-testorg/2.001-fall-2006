@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains 4 problems to test students understanding of course
   material.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-001-mechanics-materials-i-fall-2006/4e02c152e1d890473b1900d9754b990e_ps9.pdf
+file: /media/courses/2-001-mechanics-materials-i-fall-2006/4e02c152e1d890473b1900d9754b990e_ps9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps9.pdf
 uid: 4e02c152-e1d8-9047-3b19-00d9754b990e
