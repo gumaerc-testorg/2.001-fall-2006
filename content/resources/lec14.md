@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Notes on topics covered in the lecture.
-file: /media/courses/2-001-mechanics-materials-i-fall-2006/bd0c65066e01f2a16313d1903725b14d_lec14.pdf
+file: /courses/2-001-mechanics-materials-i-fall-2006/bd0c65066e01f2a16313d1903725b14d_lec14.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: lec14.pdf
 uid: bd0c6506-6e01-f2a1-6313-d1903725b14d
 ---
+Notes on topics covered in the lecture.
