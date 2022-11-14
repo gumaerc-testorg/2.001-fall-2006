@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Selection of lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Outline, Review of Forces and Moments, Introduction to Equilibrium (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec1))
+Course Outline, Review of Forces and Moments, Introduction to Equilibrium ({{% resource_link 36ccf3f2-5d3a-78ad-bb34-ef2f576c3642 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Course Outline, Review of Forces and Moments, Introduction to Equilibrium (![Thi
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Forces, Moments, Equilibrium (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+Forces, Moments, Equilibrium ({{% resource_link f9697221-6152-bcaf-4f1c-9b606b81a483 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Forces, Moments, Equilibrium (![This resource may not render correctly in a scre
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Applying the Equations of Equilibrium, Planar Trusses (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec3))
+Applying the Equations of Equilibrium, Planar Trusses ({{% resource_link 0fec94f7-fb6b-9e6d-2e93-83560e971555 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Applying the Equations of Equilibrium, Planar Trusses (![This resource may not r
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Friction (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec4))
+Friction ({{% resource_link 95f00a05-77d6-a6d1-dd5c-953188ae62e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +74,7 @@ Friction (![This resource may not render correctly in a screen reader.](/images/
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Shear Force and Bending Moment Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec5))
+Shear Force and Bending Moment Diagrams ({{% resource_link 0b739c73-2b57-ee6d-4221-b5cfce732769 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ Shear Force and Bending Moment Diagrams (![This resource may not render correctl
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Shear Force and Bending Moment Diagrams (cont.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec6))
+Shear Force and Bending Moment Diagrams (cont.) ({{% resource_link f02b82c5-7670-be3b-1425-194f7dbe8642 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Shear Force and Bending Moment Diagrams (cont.) (![This resource may not render 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Force-deformation Relationships and Static Indeterminacy (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7))
+Force-deformation Relationships and Static Indeterminacy ({{% resource_link 8ee771f4-edfd-a8df-0e9f-1b38c491dc46 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Force-deformation Relationships and Static Indeterminacy (![This resource may no
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec8))
+Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties ({{% resource_link 96d19732-3da3-b199-ebd9-78a8cb06757d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Finishing up Static Indeterminacy; Uniaxial Loading and Material Properties (![T
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Trusses and Their Deformations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+Trusses and Their Deformations ({{% resource_link dfbefba0-9e53-3f13-4969-0e6e410d5524 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ Trusses and Their Deformations (![This resource may not render correctly in a sc
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Statically Determinate and Indeterminate Trusses (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+Statically Determinate and Indeterminate Trusses ({{% resource_link 01eff654-a3d6-620d-1481-1d7dda7ff786 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +149,7 @@ Quiz 1
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Multiaxial Stress (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+Multiaxial Stress ({{% resource_link 8c2fdc8b-3ddc-ced1-d5c8-a096df3f59ef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Multiaxial Stress (![This resource may not render correctly in a screen reader.]
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Multiaxial Stress and Strain (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+Multiaxial Stress and Strain ({{% resource_link 1b6db19a-905e-fb79-a2c3-57d76011b2c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +173,7 @@ Multiaxial Stress and Strain (![This resource may not render correctly in a scre
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Multiaxial Strain and Multiaxial Stress-strain Relationships (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+Multiaxial Strain and Multiaxial Stress-strain Relationships ({{% resource_link 5518baa1-04ea-3fcc-e475-1541dfd93791 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Multiaxial Strain and Multiaxial Stress-strain Relationships (![This resource ma
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Stress-strain-temperature Relationships and Thin-walled Pressure Vessels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec14))
+Stress-strain-temperature Relationships and Thin-walled Pressure Vessels ({{% resource_link bd0c6506-6e01-f2a1-6313-d1903725b14d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +197,7 @@ Stress-strain-temperature Relationships and Thin-walled Pressure Vessels (![This
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Stress Transformations and Principal Stress (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec15))
+Stress Transformations and Principal Stress ({{% resource_link f96e82d0-6abd-bd06-4a2b-ed16f80e7201 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ Stress Transformations and Principal Stress (![This resource may not render corr
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Stress and Strain Transformations (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec16))
+Stress and Strain Transformations ({{% resource_link ba4437f9-5df6-b0f9-b947-6ec8b73ff27f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +215,7 @@ Stress and Strain Transformations (![This resource may not render correctly in a
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Failure of Materials and Examples (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec17))
+Failure of Materials and Examples ({{% resource_link 0536dc7d-752d-099f-72b8-5de5d8876f22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +239,7 @@ Quiz 2
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Pure Bending (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec18))
+Pure Bending ({{% resource_link cdc72a20-07bf-26b8-5b8c-6ac32c9df1ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +248,7 @@ Pure Bending (![This resource may not render correctly in a screen reader.](/ima
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Moment-curvature Relationship (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec19))
+Moment-curvature Relationship ({{% resource_link 3734eab0-7692-5fc3-721f-7a79068abf79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +257,7 @@ Moment-curvature Relationship (![This resource may not render correctly in a scr
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Beam Deflection (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec20))
+Beam Deflection ({{% resource_link 1340543c-ed02-6dab-5c84-44a53fe92153 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +266,7 @@ Beam Deflection (![This resource may not render correctly in a screen reader.](/
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Symmetry, Superposition, and Statically Indeterminate Beams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec21))
+Symmetry, Superposition, and Statically Indeterminate Beams ({{% resource_link e5a0d036-c217-b7c1-0b33-5ab17b56dcad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +281,7 @@ Symmetry, Superposition, and Statically Indeterminate Beams (![This resource may
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Torsion and Twisting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec22))
+Torsion and Twisting ({{% resource_link 48c47be2-a2e7-0576-edc4-678ec4c099af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -289,7 +290,7 @@ Torsion and Twisting (![This resource may not render correctly in a screen reade
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Torsion Examples (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec23))
+Torsion Examples ({{% resource_link 47d38fd6-ffa9-39a3-c349-db089066b5cd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -298,7 +299,7 @@ Torsion Examples (![This resource may not render correctly in a screen reader.](
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Energy Methods (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec24))
+Energy Methods ({{% resource_link 2f0156a9-a26c-8979-9a7e-1d8c8aa996a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +308,7 @@ Energy Methods (![This resource may not render correctly in a screen reader.](/i
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Examples (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec25))
+Examples ({{% resource_link 0e0585a6-1d9f-078d-bdde-b7c3389201c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
