@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria and participation guidelines.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -44,7 +46,7 @@ Texts
 ### Required
 
 1.  Hibbeler, R. C. _Mechanics of Materials_. 6th ed. East Rutherford, NJ: Pearson Prentice Hall, 2004. ISBN: 9780131913455.
-2.  [Lecture Notes]({{< baseurl >}}/pages/lecture-notes)
+2.  {{% resource_link ddbbc491-2106-53ce-dd8e-b122b208c5ed "Lecture Notes" %}}
 
 ### Recommended
 
