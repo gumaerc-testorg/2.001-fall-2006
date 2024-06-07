@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information to be covered in Lecture 17 by Prof.
   Carol Livermore.
 file: /courses/2-001-mechanics-materials-i-fall-2006/0536dc7d752d099f72b85de5d8876f22_lec17.pdf
+file_size: 359904
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
