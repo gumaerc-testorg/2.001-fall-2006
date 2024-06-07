@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information to be covered in Lecture 8 by Prof.
   Carol Livermore.
 file: /courses/2-001-mechanics-materials-i-fall-2006/96d197323da3b199ebd978a8cb06757d_lec8.pdf
+file_size: 387106
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
