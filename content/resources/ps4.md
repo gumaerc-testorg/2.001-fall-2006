@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 7 problems to test students understanding of course
   material.
 file: /courses/2-001-mechanics-materials-i-fall-2006/94b77141987a89473ec502698bceb72e_ps4.pdf
+file_size: 28296
 file_type: application/pdf
 learning_resource_types:
 - Assignments

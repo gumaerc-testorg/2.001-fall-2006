@@ -4,6 +4,7 @@ description: These two finite element volume renderings of a deformed beam compa
   a simple linear approximation (left) to an adaptively sampled scalar field (right).
   (Figure courtesy of Sandia National Laboratories.)
 file: /courses/2-001-mechanics-materials-i-fall-2006/e90af00d77791fe1df8f47747c23529b_chp_finitebeam.jpg
+file_size: 71682
 file_type: image/jpeg
 image_metadata:
   caption: ''
