@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information to be covered in Lecture 6 by Prof.
   Carol Livermore.
-file: /courses/2-001-mechanics-materials-i-fall-2006/f02b82c57670be3b1425194f7dbe8642_lec6.pdf
+file: /ol-ocw-studio-app/courses/2-001-mechanics-materials-i-fall-2006/f02b82c57670be3b1425194f7dbe8642_lec6.pdf
 file_size: 910221
 file_type: application/pdf
 learning_resource_types:
