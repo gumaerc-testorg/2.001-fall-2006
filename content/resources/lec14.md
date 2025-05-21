@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on topics covered in the lecture.
-file: /ol-ocw-studio-app/courses/2-001-mechanics-materials-i-fall-2006/bd0c65066e01f2a16313d1903725b14d_lec14.pdf
+file: /courses/2-001-mechanics-materials-i-fall-2006/bd0c65066e01f2a16313d1903725b14d_lec14.pdf
 file_size: 244233
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information to be covered in Lecture 15 by Prof.
   Carol Livermore.
-file: /ol-ocw-studio-app/courses/2-001-mechanics-materials-i-fall-2006/f96e82d06abdbd064a2bed16f80e7201_lec15.pdf
+file: /courses/2-001-mechanics-materials-i-fall-2006/f96e82d06abdbd064a2bed16f80e7201_lec15.pdf
 file_size: 413831
 file_type: application/pdf
 learning_resource_types:
