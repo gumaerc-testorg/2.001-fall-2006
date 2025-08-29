@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information to be covered in Lecture 24 by Prof.
   Carol Livermore.
-file: /courses/2-001-mechanics-materials-i-fall-2006/2f0156a9a26c89799a7e1d8c8aa996a2_lec24.pdf
+file: /ol-ocw-studio-app/courses/2-001-mechanics-materials-i-fall-2006/2f0156a9a26c89799a7e1d8c8aa996a2_lec24.pdf
 file_size: 263236
 file_type: application/pdf
 learning_resource_types:

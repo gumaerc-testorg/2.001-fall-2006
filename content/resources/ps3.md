@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 7 problems to test students understanding of course
   material.
-file: /courses/2-001-mechanics-materials-i-fall-2006/62d9f8a913c7cf388352d276b618324d_ps3.pdf
+file: /ol-ocw-studio-app/courses/2-001-mechanics-materials-i-fall-2006/62d9f8a913c7cf388352d276b618324d_ps3.pdf
 file_size: 218916
 file_type: application/pdf
 learning_resource_types:
